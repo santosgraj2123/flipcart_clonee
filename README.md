@@ -1,2 +1,2 @@
-# flipcart_clonee
-using techenalogy
+# flipkart-clone-html-css-and-javascript
+flipkart clone html css and javascript
